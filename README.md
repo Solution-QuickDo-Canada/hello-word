@@ -1,6 +1,4 @@
 hello-word
 ==========
 
-Example of project
-
-Description du projet hello word 
+On est dans la seconde branch
